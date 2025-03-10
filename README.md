@@ -11,7 +11,7 @@
 
 - **Languages**: Python, SQL, VBA,
 - **Frameworks**: React, Angular, Node.js, Spring Boot, .NET
-- **Tools**: Git, Docker, Kubernetes, Jenkins, VS Code
+- **Tools**: Git, Docker, VS Code, Analysis Service, Integration Services, Report Builder
 - **Databases**: MySQL, PostgreSQL, MongoDB, Redis, SQLServer
 - **Cloud**: AWS, Azure, Google Cloud
 
