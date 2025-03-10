@@ -5,14 +5,14 @@
 - 💼 **Profession**: innovation and strategy specialist
 - 🌍 **Location**: São Paulo, Brazil
 - 🎓 **Education**: self-taught 👌
-- 🚀 **Interests**: Web Development, Open Source, AI, and Cloud Computing
+- 🚀 **Interests**: Open Source, AI, Cloud Computing, DBA, SQLTunning, 
 
 ## Skills
 
-- **Languages**: JavaScript, TypeScript, Python, Java, C#
+- **Languages**: Python, SQL, VBA,
 - **Frameworks**: React, Angular, Node.js, Spring Boot, .NET
 - **Tools**: Git, Docker, Kubernetes, Jenkins, VS Code
-- **Databases**: MySQL, PostgreSQL, MongoDB, Redis
+- **Databases**: MySQL, PostgreSQL, MongoDB, Redis, SQLServer
 - **Cloud**: AWS, Azure, Google Cloud
 
 ## Projects
