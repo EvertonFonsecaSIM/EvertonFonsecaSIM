@@ -4,7 +4,7 @@
 
 - 💼 **Profession**: Software Developer
 - 🌍 **Location**: São Paulo, Brazil
-- 🎓 **Education**: Bachelor's Degree in Computer Science
+- 🎓 **Education**: self-taught 👌
 - 🚀 **Interests**: Web Development, Open Source, AI, and Cloud Computing
 
 ## Skills
