@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 💼 **Profession**: Software Developer
+- 💼 **Profession**: innovation and strategy specialist
 - 🌍 **Location**: São Paulo, Brazil
 - 🎓 **Education**: self-taught 👌
 - 🚀 **Interests**: Web Development, Open Source, AI, and Cloud Computing
